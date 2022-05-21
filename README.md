@@ -18,3 +18,29 @@ All code and Jupyter Notebooks come without representations or warranties, to th
 
 http://tpq.io | training@tpq.io | http://twitter.com/dyjh
 
+
+
+## 良さそうなライブラリとか
+
+[本書で使えそうなデータ](https://github.com/matplotlib/sample_data)
+
+https://github.com/ccxt/ccxt/tree/master/python
+
+https://github.com/kernc/backtesting.py
+
+
+あるあるのgithub
+
+[Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)
+
+[Future of the Community](https://github.com/firmai/financial-machine-learning)
+
+
+
+
+
+
+[Refinitiv Eikonで相場データを取得してみた](https://qiita.com/studio_haneya/items/48f6f4c237dc9fd9e4e0)
+
+[Jupyter Docker Stacksのコンテナをカスタマイズする](https://dev.classmethod.jp/articles/customize-jupyter-docker-stacks-image/)
+
